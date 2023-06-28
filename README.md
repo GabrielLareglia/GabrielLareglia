@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielLareglia
 - 🌱 I’m currently learning  Progamação
-- 💞️ I’m looking to collaborate on com meus colegas
+- 💞️ I’m looking to collaborate com meus colegas
 - 📫 How to reach me email- laregliagabriel@gmail.com
 
 <!---
